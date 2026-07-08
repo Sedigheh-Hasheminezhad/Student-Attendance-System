@@ -27,43 +27,24 @@ Description:
 * Created the required Python file for student registration.
 
 
+### Tarannom Toopchinezhad
 
-
-
-\### Tarannom Toopchinezhad
-
-
-
-\*Role:
-
+*Role:
 Attendance Tracking Module
 
-
-
 Branch:
-
 feature/attendance-tracking
 
-
-
 File:
-
 attendance\_tracking.py
 
-
-
 Commit:
-
 1659a05
-
-
 
 Description:
 
 • Implemented attendance tracking functionality.
-
 • Added features for recording attendance status.
-
 • Created the attendance tracking Python module.
 
 
