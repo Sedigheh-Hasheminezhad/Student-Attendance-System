@@ -24,5 +24,5 @@ def attendance_report():
     print(f"Attendance Rate: {percentage:.2f}%\n")
 
 
-if name == "__main__":
+if __name__ == "__main__":
     attendance_report()
