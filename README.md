@@ -43,9 +43,6 @@ Commit:
 
 Description:
 
-• Implemented attendance tracking functionality.
-• Added features for recording attendance status.
-• Created the attendance tracking Python module.
-
-
-
+*Implemented attendance tracking functionality.
+*Added features for recording attendance status.
+*Created the attendance tracking Python module.
