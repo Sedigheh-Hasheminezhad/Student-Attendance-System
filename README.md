@@ -26,7 +26,7 @@ Description:
 * Added functionality for managing student information.
 * Created the required Python file for student registration.
 
-
+--
 
 ### Tarannom Toopchinezhad
 
@@ -48,7 +48,7 @@ Description:
 * Added features for recording attendance status.
 * Created the attendance tracking Python module.
 
-
+--
 
 ### Aida Tadris Hasani
 
@@ -69,5 +69,6 @@ Description:
 * Added attendance summary features.
 * Created the attendance reporting Python module.
 
+--
 
-
+The End
