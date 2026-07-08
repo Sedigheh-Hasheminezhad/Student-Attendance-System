@@ -27,9 +27,10 @@ Description:
 * Created the required Python file for student registration.
 
 
+
 ### Tarannom Toopchinezhad
 
-*Role:
+\*Role:
 Attendance Tracking Module
 
 Branch:
@@ -46,3 +47,34 @@ Description:
 * Implemented attendance tracking functionality.
 * Added features for recording attendance status.
 * Created the attendance tracking Python module.
+
+
+
+\### Aida Tadris Hasani
+
+\*Role:
+
+Attendance Reporting Module
+
+Branch:
+
+feature/attendance-reporting
+
+File:
+
+attendance\_reporting.py
+
+Commit:
+
+38101c0
+
+Description:
+
+&#x20; \*Implemented attendance reporting functionality.
+
+&#x20; \*Added attendance summary features.
+
+&#x20; \*Created the attendance reporting Python module.
+
+
+
