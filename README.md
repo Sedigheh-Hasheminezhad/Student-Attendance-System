@@ -50,31 +50,24 @@ Description:
 
 
 
-\### Aida Tadris Hasani
+### Aida Tadris Hasani
 
-\*Role:
-
+*Role:
 Attendance Reporting Module
 
 Branch:
-
 feature/attendance-reporting
 
 File:
-
 attendance\_reporting.py
 
 Commit:
-
 38101c0
 
 Description:
-
-&#x20; \*Implemented attendance reporting functionality.
-
-&#x20; \*Added attendance summary features.
-
-&#x20; \*Created the attendance reporting Python module.
+* Implemented attendance reporting functionality.
+* Added attendance summary features.
+* Created the attendance reporting Python module.
 
 
 
